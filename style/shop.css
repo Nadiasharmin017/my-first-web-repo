@@ -1,7 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-.black
+.black /*paragraph text*/
 {
     color: rgba(39, 39, 39, 0.60);
 font-family: Lato;
@@ -9,4 +9,164 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+
 }
+.pink/*shop div*/
+{
+    color: white;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border: 0px;
+}
+
+.make /*all h+P+SHOP NOW+ img div*/
+{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center; 
+}
+.headtext/*heading+para*/
+{
+    margin-left: 150px;
+}
+
+.flowervase/*second part*/
+{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.threeflower/*text*/
+{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.lotus /*3 flowerpicture*/
+{
+   
+    display: flex;
+    align-items: center;
+   
+    
+    
+    
+    
+
+}
+.firstflower
+{
+    
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+    margin-left: 240px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+.secondflower
+{  
+    width: 464px;
+height: 538px;
+flex-shrink: 0;
+    margin-left: 24px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+
+.thirdflower
+{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    margin-left: 24px;
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+
+
+.rose/*pink flower text*/
+{  
+    margin-inline-start: 350px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.underline /*pink flower text underline*/
+{
+   display: flex;
+}
+
+
+.offerprice/*hot deal*/
+{
+    margin-left: 400px;
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.price 
+{
+    margin-right: 100px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.myshop
+{ 
+    border: 0px;
+    margin-left: 600px;
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+.picture
+{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
