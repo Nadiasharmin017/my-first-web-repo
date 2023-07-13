@@ -114,6 +114,7 @@ background: rgba(71, 125, 17, 0.15);
 .underline /*pink flower text underline*/
 {
    display: flex;
+   align-items: center;
 }
 
 
@@ -130,7 +131,7 @@ line-height: normal;
 
 .price 
 {
-    margin-right: 100px;
+    margin-left: 300px;
     color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-family: Lato;
@@ -141,7 +142,8 @@ line-height: 30px;
 }
 
 .myshop
-{ 
+{
+    margin-right: 300px;
     border: 0px;
     margin-left: 600px;
     border-radius: 8px;
@@ -158,13 +160,96 @@ font-weight: 700;
 line-height: normal;
 }
 
-
-.picture
+.golapvase
 {
     display: flex;
     align-items: center;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
 }
 
+
+.insta /*inastagram*/
+{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.instatext
+{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+}
+
+.fourflower
+{
+    display: flex;
+    align-items: center;
+
+}
+
+.pataflower
+{
+    margin-left: 200px;
+}
+.rectanfour
+{
+    margin-left: 24px;
+}
+.cupflower
+{
+    margin-left: 24px;
+}
+.doublerose
+{
+    margin-left: 24px;
+}
+.latestdeal
+{
+   
+
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    margin-top: 200px;
+    margin-left: 200px;
+
+}
+
+
+
+.box
+{    
+    margin: 250px 230px;
+    display: flex;
+    align-items: center;
+    background-image:url(Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    
+}
+.middledeal
+{ 
+    margin-left: 500px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+}
 
 
 
